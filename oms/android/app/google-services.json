@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "148020391959",
+    "project_id": "order-management-system-c44e2",
+    "storage_bucket": "order-management-system-c44e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148020391959:android:62cbc8912de2641e00ac52",
+        "android_client_info": {
+          "package_name": "com.example.oms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148020391959-0p4t6jivttkrt01ltjm9rde7rd0oudu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr5kx6AXlISpZX68T5KlVgT7Dl2h942-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148020391959-0p4t6jivttkrt01ltjm9rde7rd0oudu5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148020391959-vf5kd8bcibkf8ssq49m2mu08sjj51a2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.orderManagementSystem2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148020391959:android:1aa36e448a056cc500ac52",
+        "android_client_info": {
+          "package_name": "com.example.order_management_system_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148020391959-0ttbq5568d5cq5potl20nq7p74brvjof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.order_management_system_2",
+            "certificate_hash": "607d480a0a4235fa6e01a9c6bb0b1ba42afda677"
+          }
+        },
+        {
+          "client_id": "148020391959-0p4t6jivttkrt01ltjm9rde7rd0oudu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr5kx6AXlISpZX68T5KlVgT7Dl2h942-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148020391959-0p4t6jivttkrt01ltjm9rde7rd0oudu5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148020391959-vf5kd8bcibkf8ssq49m2mu08sjj51a2k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.orderManagementSystem2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
